@@ -1,0 +1,13 @@
+.Footer {
+  height: 10vh;
+  width: 100%;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Footer h2 {
+  /* text-align: center; */
+  color: white;
+  /* line-height: 10vh; */
+}/*# sourceMappingURL=Footer.module.css.map */

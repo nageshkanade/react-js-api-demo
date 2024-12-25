@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.HeaderNav{
+    height: 10vh;
+    width: 100%;
+    background-color:black;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    
+}
+.HeaderFirst{
+    h1{
+        color: white;
+    }
+}
+.Nav{
+    list-style-type:none;
+    
+    li{
+        float: left;
+        padding: 20px;
+        font-size: 30px;
+    
+
+    }
+}
+.Nav li link{
+    text-decoration: none;
+    color:white;
+    
+}
+.link{
+    text-decoration: none;
+    color: white;
+}
